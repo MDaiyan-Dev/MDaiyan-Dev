@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Daiyan
 - 👀 I’m interested in Machine Learning and Neural Networks
-- 🌱 I’m currently learning .Java and C++
+- 🌱 I’m currently learning .Java, JavaScript, React and C++.
 - 📫 How to reach me : amiruldaiyan128@gmail.com
 
 <!---
