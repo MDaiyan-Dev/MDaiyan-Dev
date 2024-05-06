@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammad Amirul Daiyan
 - 👀 I’m interested in Machine Learning,Neural Networks,IT Management Networks and Full-stack development.
 - 🌱 I’m currently learning Java, JavaScript, React and C++.
-- ✨ Actively looking for an intership in all related fields
+- ✨ Actively looking for an intership in all related fields.
 - 📫 How to reach me : daiyan.mohammad.offc@gmail.com
 
 <!---
