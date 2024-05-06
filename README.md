@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Mohammad Daiyan
-- 👀 I’m interested in Machine Learning and Neural Networks
+- 👋 Hi, I’m Mohammad Amirul Daiyan
+- 👀 I’m interested in Machine Learning/Neural/IT Management Networks and Full-stack development.
 - 🌱 I’m currently learning .Java, JavaScript, React and C++.
-- 📫 How to reach me : amiruldaiyan128@gmail.com
+- ✨ Actively looking for an intership in all related fields
+- 📫 How to reach me : daiyan.mohammad.offc@gmail.com
 
 <!---
 SkelpieX/SkelpieX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
