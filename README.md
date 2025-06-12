@@ -26,7 +26,7 @@
 - 🌱 Currently leveling up in **Cybersecurity**, **Java**, **JavaScript**, **React**, **C++**, **Python**, **GOLang** & studying for my **CCNA** and **Network+** 
 - 🌟 Actively hunting for an **internship**; reach out to me and let’s build something awesome!  
 - 💬 Ask me about **ML pipelines**, **Automation**, **Web apps**, **Cybersecurity** or just random trivia! Let's connect!  
-- ⚡ **Fun Fact:** I'm an amateur **Astrophotographer** and I'm currently building a super secret open source app to help my workflow 👀! 
+- ⚡ **Fun Fact:** I'm an amateur **Astrophotographer** and I'm currently building a super secret app to help my workflow 👀! 
 ---
 <h2 align="center">
 🛠️ Tech Stack
